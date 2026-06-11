@@ -22,6 +22,10 @@ h2 {
     font-weight: lighter;
 }
 
+section {
+    justify-content: center;
+}
+
 footer {
     align-items: end;
     color: white;
