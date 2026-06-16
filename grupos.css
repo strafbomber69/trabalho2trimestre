@@ -1,4 +1,5 @@
 body {
     background-image: url(fundo.jpg);
     background-size: cover;
+    justify-content: center;
 }
