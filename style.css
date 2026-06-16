@@ -1,32 +1,36 @@
-body {
+.body {
     background-image: url(fundo.jpg);
     background-size: cover;
     justify-content: center;
 }
 
-header {
+.header {
     justify-content: center;
 }
 
-h1 {
+.h1 {
     justify-content: center;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
 }
 
-h2 {
+.h2 {
     justify-content: center;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: lighter;
 }
 
-section {
+.section {
     justify-content: center;
 }
 
-footer {
+.jdishjdsi {
+    display: flex;
+}
+
+.footer {
     align-items: end;
     color: white;
 }
