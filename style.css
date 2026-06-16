@@ -1,4 +1,4 @@
-body {
+.body {
     background-image: url(fundo.jpg);
     background-size: cover;
 }
@@ -10,8 +10,10 @@ body {
 .h1 {
     justify-content: center;
     color: white;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: bold;
+    font-family: "Matangi", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 48;
+    font-style: normal;
 }
 
 .h2 {
