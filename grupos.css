@@ -2,3 +2,8 @@ body {
     background-image: url(fundo.jpg);
     background-size: cover;
 }
+
+section {
+    align-items: center;
+    color: white;
+}
