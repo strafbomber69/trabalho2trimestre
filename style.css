@@ -1,6 +1,11 @@
 body {
     background-image: url(fundo.jpg);
     background-size: cover;
+  font-family: "Matangi", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: rgb(255, 255, 255);
 }
 
 .header {
