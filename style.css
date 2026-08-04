@@ -13,6 +13,7 @@ h1 {
     color: white;
     font-family: "Matangi", sans-serif;
     text-align: center;
+    font-size: large;
 
 }
 
@@ -32,6 +33,8 @@ section {
 .jdishjdsi {
     display: flex;
     font-family: "Matangi", sans-serif;
+    color: white;
+    font-size: 40px;
 }
 
 footer {
