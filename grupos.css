@@ -3,6 +3,22 @@ body {
     background-size: cover;
 }
 
+h1 {
+   font-family: "Matangi", sans-serif;
+   font-weight: bolder;
+   color: white;
+   font-size: 80px;
+   text-align: center;
+}
+
+h2 {
+    font-family: "Matangi", sans-serif;
+   font-weight: bold;
+   color: white;
+   font-size: 30px;
+   text-align: center;
+}
+
 section {
     align-items: center;
     color: white;
