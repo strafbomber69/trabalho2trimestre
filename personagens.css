@@ -4,7 +4,10 @@ body {
 }
 
 h1 {
-    font-family: "Matangi"; sans-serif;
     color: white;
+    font-family: "Matangi", sans-serif;
+    text-align: center;
+    font-size: 48px;
     font-weight: bolder;
+
 }
