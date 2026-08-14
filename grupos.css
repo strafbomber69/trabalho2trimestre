@@ -5,18 +5,42 @@ body {
 
 h1 {
    font-family: "Matangi", sans-serif;
-   font-weight: bolder;
+   font-weight: bold;
    color: white;
    font-size: 80px;
    text-align: center;
 }
 
 h2 {
-    font-family: "Matangi", sans-serif;
-   font-weight: bold;
+   font-family: "Matangi", sans-serif;
    color: white;
    font-size: 30px;
    text-align: center;
+
+}
+
+.vs {
+    display: flex;
+}
+
+.ln {
+    display: flex;
+}
+
+.mmj {
+    display: flex;
+}
+
+.vbs {
+    display: flex;
+}
+
+.wxs {
+    display: flex;
+}
+
+.n25 {
+    display: flex;
 }
 
 section {
