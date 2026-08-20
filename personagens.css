@@ -12,6 +12,15 @@ h1 {
 
 }
 
+.subtitulo {    
+    color: white;
+    font-family: "Matangi", sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: normal;
+
+}
+
 h2 {
     color: white;
     font-family: "Matangi", sans-serif;
