@@ -5,15 +5,16 @@ body {
 
 h1 {
     font-family: "Matangi", sans-serif;
-    font-size: 40px;
+    font-size: 45px;
     color: white;
     font-weight: bold;
     text-align: center;
 }
 
-.notas {
-    display: flex;
-    color: white;
+.descricao {
     font-family: "Matangi", sans-serif;
-    font-size: 24px;
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
 }
