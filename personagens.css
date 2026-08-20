@@ -13,6 +13,7 @@ h1 {
 }
 
 .virtualsingers {
-    display: contents:
+    display: flexbox;
+
     
 }
