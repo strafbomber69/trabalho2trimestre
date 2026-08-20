@@ -15,7 +15,9 @@ h1 {
 a {
     color: white;
     text-decoration: none;
+    font-weight: bold;
     font-family: "Matangi", sans-serif;
+    font-size: medium;
 }
 
 .subtitulo {    
@@ -31,7 +33,7 @@ h2 {
     color: white;
     font-family: "Matangi", sans-serif;
     text-align: center;
-    font-size: 36px;
+    font-size: 28px;
     font-weight: normal;
 
 }
@@ -59,7 +61,78 @@ h3 {
 .leoneed {
     display: flex;
     flex-wrap: nowrap;
-    overflow-x: hidden;
+    gap: 5px;
+    color: white;
+    font-family: "Matangi", sans-serif;
+    font-weight: 300;
+}
+
+h4 {
+    color: white;
+    font-family: "Matangi", sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: normal;
+
+}
+
+.moremorejump {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 5px;
+    color: white;
+    font-family: "Matangi", sans-serif;
+    font-weight: 300;
+
+}
+
+h5 {
+    color: white;
+    font-family: "Matangi", sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: normal;
+
+}
+
+.vividbadsquad {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 5px;
+    color: white;
+    font-family: "Matangi", sans-serif;
+    font-weight: 300;
+
+}
+
+h6 {
+    color: white;
+    font-family: "Matangi", sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.wondershow {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 5px;
+    color: white;
+    font-family: "Matangi", sans-serif;
+    font-weight: 300;
+}
+
+.titulo-n25 {
+    color: white;
+    font-family: "Matangi", sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.nightcord {
+    display: flex;
+    flex-wrap: nowrap;
     gap: 5px;
     color: white;
     font-family: "Matangi", sans-serif;
