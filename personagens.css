@@ -78,7 +78,6 @@ h4 {
 
 .moremorejump {
     display: flex;
-    flex-wrap: nowrap;
     gap: 5px;
     color: white;
     font-family: "Matangi", sans-serif;
@@ -97,7 +96,6 @@ h5 {
 
 .vividbadsquad {
     display: flex;
-    flex-wrap: nowrap;
     gap: 5px;
     color: white;
     font-family: "Matangi", sans-serif;
@@ -115,7 +113,6 @@ h6 {
 
 .wondershow {
     display: flex;
-    flex-wrap: nowrap;
     gap: 5px;
     color: white;
     font-family: "Matangi", sans-serif;
@@ -132,7 +129,6 @@ h6 {
 
 .nightcord {
     display: flex;
-    flex-wrap: nowrap;
     gap: 5px;
     color: white;
     font-family: "Matangi", sans-serif;
